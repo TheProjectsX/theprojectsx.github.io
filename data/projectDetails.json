@@ -54,6 +54,12 @@
             "url": "StopWatch",
             "genre": "Web App",
             "languages": "HTML, CSS, JS"
-        } 
+        }, {
+            "key": "numbersystem",
+            "name": "Number System Converter",
+            "url": "NumberSystemConverter",
+            "genre": "Web App, Web Tools",
+            "languages": "HTML, CSS, JS"
+        }
     ]
 }
