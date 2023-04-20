@@ -60,6 +60,12 @@
             "url": "NumberSystemConverter",
             "genre": "Web App, Web Tools",
             "languages": "HTML, CSS, JS"
+        }, {
+            "key": "digitalclock",
+            "name": "Digital Clock",
+            "url": "DigitalClock",
+            "genre": "Web App, Web Tools",
+            "languages": "HTML, CSS, JS"
         }
     ]
 }
