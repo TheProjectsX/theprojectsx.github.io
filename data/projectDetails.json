@@ -67,6 +67,12 @@
             "genre": "Web App",
             "languages": "HTML, CSS, JS"
         }, {
+            "key": "keepnotes",
+            "name": "Keep Notes",
+            "url": "KeepNotes",
+            "genre": "Web App",
+            "languages": "HTML, CSS, JS"
+        }, {
             "key": "loginmenu-01",
             "name": "Login Menu - 01",
             "url": "LoginMenu-01",
