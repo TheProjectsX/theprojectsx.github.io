@@ -78,6 +78,12 @@
             "url": "LoginMenu-01",
             "genre": "Web App",
             "languages": "HTML, CSS, JS"
+        }, {
+            "key": "textutils",
+            "name": "Text Utils",
+            "url": "TextUtils",
+            "genre": "Web App",
+            "languages": "HTML, React JS, Bootstrap"
         }
     ]
 }
