@@ -84,6 +84,12 @@
             "url": "TextUtils",
             "genre": "Web App",
             "languages": "HTML, React JS, Bootstrap"
+        }, {
+            "key": "portfolio_01",
+            "name": "Developer Portfolio",
+            "url": "Portfolio-01",
+            "genre": "Webpage",
+            "languages": "HTML, React JS, Tailwind CSS"
         }
     ]
 }
