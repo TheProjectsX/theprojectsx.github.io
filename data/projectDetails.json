@@ -73,6 +73,12 @@
             "genre": "Web App",
             "languages": "HTML, CSS, JS"
         }, {
+            "key": "numbersystemeqn",
+            "name": "Number System Equation",
+            "url": "NumberSystemEquation",
+            "genre": "Web App, Web Tools",
+            "languages": "HTML, Tailwind CSS, Next JS"
+        }, {
             "key": "loginmenu-01",
             "name": "Login Menu - 01",
             "url": "LoginMenu-01",
