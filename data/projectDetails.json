@@ -105,7 +105,7 @@
         }, {
             "key": "BlogWebsite_01",
             "name": "Blog Website",
-            "url": "blog-website-01",
+            "url": "BlogWebsite-01",
             "genre": "Single Page Website",
             "languages": "HTML, React JS, Tailwind CSS"
         }
