@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://modasser.is-a.dev
+
+# Sitemaps
+Sitemap: https://modasser.is-a.dev/sitemap.xml
